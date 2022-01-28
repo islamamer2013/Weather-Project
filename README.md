@@ -2,7 +2,6 @@ A simple web-app that allows you to search for a city and get the current weathe
 
 Screenshot of deployed app
 
-![Uploading image.png…]()
 
 
 Usage
